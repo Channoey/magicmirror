@@ -1,0 +1,1 @@
+ffplay -f v4l2 -framerate 60 -video_size hd720 /dev/video0
